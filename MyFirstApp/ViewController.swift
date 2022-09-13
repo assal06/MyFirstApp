@@ -19,7 +19,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func cahngeClicked(_ sender: Any) {
-        imageView.image = UIImage(named: "Metallica2" )
+        imageView.image = UIImage(named: "Metallica2")
+        
         
     }
     
